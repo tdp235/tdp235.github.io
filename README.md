@@ -1,0 +1,1 @@
+Welcome to AI Movie Maker, a cutting-edge platform that leverages artificial intelligence to help users create movies effortlessly. Whether you're an aspiring filmmaker, content creator, or simply someone who loves storytelling, our platform empowers you to produce high-quality videos using the power of AI.
